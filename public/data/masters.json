@@ -1,0 +1,17 @@
+[
+  {
+    "id": "master-1",
+    "name": "Арман",
+    "dayOff": null
+  },
+  {
+    "id": "master-2",
+    "name": "Данияр",
+    "dayOff": 1
+  },
+  {
+    "id": "master-3",
+    "name": "Тимур",
+    "dayOff": null
+  }
+]

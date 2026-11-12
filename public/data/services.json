@@ -1,0 +1,26 @@
+[
+  {
+    "id": "haircut",
+    "name": "Стрижка",
+    "duration": 45,
+    "price": 5000
+  },
+  {
+    "id": "beard",
+    "name": "Стрижка бороды",
+    "duration": 30,
+    "price": 3000
+  },
+  {
+    "id": "combo",
+    "name": "Стрижка + борода",
+    "duration": 75,
+    "price": 7000
+  },
+  {
+    "id": "kids",
+    "name": "Детская стрижка (до 12 лет)",
+    "duration": 30,
+    "price": 3500
+  }
+]
